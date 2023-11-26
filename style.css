@@ -1,0 +1,47 @@
+.container{
+    width:70%;
+    margin: auto;
+}
+
+.dies{
+    display: inline-block;
+    margin: 10px;
+}
+body{
+    background-color: #042f4b;
+    margin: 0;
+    text-align: center;
+    font-family: "Indie Flower", cursive; 
+}
+h1{
+    margin: 30px;
+    font-family: "Lobster", cursive;  
+    text-shadow: 5px 0 #232931; 
+    color: #4ecca3; 
+    font-size:  4.5rem;
+    text-align: center;
+}
+
+p{
+    font-size: 2rem; 
+    color:  #4ecca3;
+    font-family: "Indie Flower", cursive; 
+}
+
+.bottom{
+    padding: 10px;
+}
+
+.butn{
+    background-color:red ;
+    color: white;
+    padding: 10px;
+    width:40%;
+    margin: 2px;
+    border-radius: 100px;
+    border-color: white;
+}
+
+.butn:hover{
+    background-color: green;
+}
