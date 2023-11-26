@@ -29,5 +29,5 @@ function roledies(){
         else{
             document.querySelector("h1").innerHTML=(nam2+"WINS!");
         }
-    },2500);
+    },3000);
 }
